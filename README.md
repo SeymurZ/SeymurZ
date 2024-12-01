@@ -45,22 +45,13 @@ I'm a passionate backend developer with expertise in multiple programming langua
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SeymurGIT&theme=react-dark)
 
-## 📊 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SeymurGIT&theme=react-dark)
-
-
-
 ## 🗂️ Highlighted Repositories
 
 [![Spotify Clone](https://github-readme-stats.vercel.app/api/pin/?username=zeynalnicat&repo=SpotifyClone&theme=radical)](https://github.com/zeynalnicat/SpotifyClone)
 
 
-
-
 ## 📫 How to reach me
 
-- Email: [nicatt.zeynalli@gmail.com](mailto:nicatt.zeynalli@gmail.com)
-- LinkedIn: [Nicat Zeynalli](https://www.linkedin.com/in/nicat-zeynalli-9295b2289/)
-- Instagram: [@affuross](https://www.instagram.com/affuross/)
-- Website: [nijatzeynalli.vercel.app](https://nijatzeynalli.vercel.app/)
+- Email: [seymur-backend@outlook.com](mailto:seymur-backend@outlook.com)
+- LinkedIn: [Seymur Zeynalli](https://www.linkedin.com/in/seymur-zeynall%C4%B1-593b23266/)
+- Instagram: [@seymur.halley20](https://www.instagram.com/seymur.halley20/)
