@@ -25,7 +25,7 @@ I'm a passionate backend developer with expertise in multiple programming langua
 ## 📈 GitHub Stats
 
 ![SeymurGIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeymurGIT&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeymurGIT&layout=compact&theme=radical)
+![C#](https://img.shields.io/badge/C%23-Top%20Language-blue?style=for-the-badge&logo=csharp)
 
 ## 🏆 GitHub Trophies
 
