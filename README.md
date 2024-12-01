@@ -28,7 +28,6 @@ I'm a passionate backend developer with expertise in multiple programming langua
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeymurGIT&layout=compact&theme=radical&hide=c,html)
 
 
-
 ## 🏆 GitHub Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=SeymurGIT&theme=onedark)
@@ -46,7 +45,6 @@ I'm a passionate backend developer with expertise in multiple programming langua
 
 ### "Hotelier" API
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SeymurGIT&repo=Hotelier-API-MVC&theme=radical)](https://github.com/SeymurGIT/Hotelier-API-MVC)
-- A flutter app for creating and reading QR codes.
 
 ## 📊 Contribution Graph
 
