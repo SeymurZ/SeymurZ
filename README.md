@@ -24,7 +24,7 @@ I'm a passionate backend developer with expertise in multiple programming langua
 
 ## 📈 GitHub Stats
 
-![C#](https://img.shields.io/badge/C%23-45%25-green)
+![SeymurGIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeymurGIT&show_icons=true&theme=radical&hide=c,html)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeymurGIT&layout=compact&theme=radical&hide=c,html)
 
 
