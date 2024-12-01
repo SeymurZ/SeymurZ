@@ -19,6 +19,8 @@ I'm a passionate backend developer with expertise in multiple programming langua
 ![Unit Testing](https://img.shields.io/badge/Unit%20Testing-xUnit%2C%20NUnit-yellow)
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-Factory%2C%20Singleton-green)
 ![Blazor](https://img.shields.io/badge/Blazor-WebAssembly-purple)
+![Razor Pages](https://img.shields.io/badge/Razor%20Pages-ASP.NET-lightblue)
+![Dependency Injection](https://img.shields.io/badge/Dependency%20Injection-DI%20Pattern-blueviolet)
 
 ## 📈 GitHub Stats
 
