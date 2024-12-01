@@ -1,6 +1,6 @@
 # Hi there, I'm Seymur Zeynalli 👋
 
-![79731568097599 5b50bca477735](https://github.com/SeymurGIT/Hair-Salon-MVC/blob/master/wwwroot/User/images/github.jpg)
+![79731568097599 5b50bca477735](https://github.com/SeymurGIT/Hair-Salon-MVC/blob/master/wwwroot/User/images/github-2.jpg)
 
 
 I'm a passionate backend developer with expertise in multiple programming languages and frameworks. 
