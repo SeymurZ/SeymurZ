@@ -1,4 +1,4 @@
-# Hi there, I'm Nijat Zeynalli 👋
+# Hi there, I'm Seymur Zeynalli 👋
 
 ![79731568097599 5b50bca477735](https://github.com/zeynalnicat/zeynalnicat/assets/65115194/e281838c-be03-4275-93f4-ff3f75036c89)
 
