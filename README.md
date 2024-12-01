@@ -7,17 +7,18 @@ I'm a passionate backend developer with expertise in multiple programming langua
 
 ## 🔧 Technologies & Tools
 
-![Kotlin](https://img.shields.io/badge/Kotlin-1.5.21-blueviolet)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-2020.3-green)
-![TypeScript](https://img.shields.io/badge/TypeScript-4.3-blue)
-![Java](https://img.shields.io/badge/Java-11-orange)
-![C](https://img.shields.io/badge/C-99A3-blue)
-![Flutter](https://img.shields.io/badge/Flutter-2.5-blue)
-![React](https://img.shields.io/badge/React-17-blue)
+![C#](https://img.shields.io/badge/C%23-11-blue)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-8.0-purple)
+![MSSQL](https://img.shields.io/badge/MSSQL-2019-orange)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-8.0-darkgreen)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-Active%20Data%20Objects-blue)
+![LINQ](https://img.shields.io/badge/LINQ-Query%20Language-blue)
+![SOLID Principles](https://img.shields.io/badge/SOLID%20Principles-OOP%20Design-lightgreen)
 ![Git](https://img.shields.io/badge/Git-F05032-orange)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![HTML](https://img.shields.io/badge/HTML-5-red)
-![CSS](https://img.shields.io/badge/CSS-3-blue)
+![REST API](https://img.shields.io/badge/REST%20API-Web%20Services-orange)
+![Unit Testing](https://img.shields.io/badge/Unit%20Testing-xUnit%2C%20NUnit-yellow)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-Factory%2C%20Singleton-green)
+![Blazor](https://img.shields.io/badge/Blazor-WebAssembly-purple)
 
 ## 📈 GitHub Stats
 
@@ -37,8 +38,8 @@ I'm a passionate backend developer with expertise in multiple programming langua
 - [Azure]
 ## ✨ Projects
 
-### QRCode
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SeymurGIT&repo=Hair-Salon-MVC&theme=radical)](https://github.com/SeymurGIT/Hair-Salon-MVC)
+### "Hotelier" API
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SeymurGIT&repo=Hotelier-API-MVC&theme=radical)](https://github.com/SeymurGIT/Hotelier-API-MVC)
 - A flutter app for creating and reading QR codes.
 
 ## 📊 Contribution Graph
@@ -47,7 +48,7 @@ I'm a passionate backend developer with expertise in multiple programming langua
 
 ## 🗂️ Highlighted Repositories
 
-[![Spotify Clone](https://github-readme-stats.vercel.app/api/pin/?username=zeynalnicat&repo=SpotifyClone&theme=radical)](https://github.com/zeynalnicat/SpotifyClone)
+[![Hair Salon](https://github-readme-stats.vercel.app/api/pin/?username=SeymurGIT&repo=Hair-Salon-MVC&theme=radical)](https://github.com/SeymurGIT/Hair-Salon-MVC)
 
 
 ## 📫 How to reach me
