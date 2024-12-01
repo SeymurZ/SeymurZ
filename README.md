@@ -37,9 +37,13 @@ I'm a passionate backend developer with expertise in multiple programming langua
 - [Azure]
 ## ✨ Projects
 
-### Hair Salon
+### QRCode
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SeymurGIT&repo=Hair-Salon-MVC&theme=radical)](https://github.com/SeymurGIT/Hair-Salon-MVC)
--An ASP.NET framework app for online hair dressing services.
+- A flutter app for creating and reading QR codes.
+
+## 📊 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SeymurGIT&theme=react-dark)
 
 ## 📊 Contribution Graph
 
