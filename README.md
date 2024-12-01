@@ -21,12 +21,12 @@ I'm a passionate backend developer with expertise in multiple programming langua
 
 ## 📈 GitHub Stats
 
-![SeymurGIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynalnicat&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeynalnicat&layout=compact&theme=radical)
+![SeymurGIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeymurGIT&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeymurGIT&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=zeynalnicat&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=SeymurGIT&theme=onedark)
 
 
 ## 🌱 What I'm Currently Learning
@@ -35,12 +35,11 @@ I'm a passionate backend developer with expertise in multiple programming langua
 - [Multi-tenant services]
 - [ODATA]
 - [Azure]
-- 
 ## ✨ Projects
 
 ### Hair Salon
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SeymurGIT&repo=Hair-Salon-MVC&theme=radical)](https://github.com/SeymurGIT/Hair-Salon-MVC)
-- An ASP.NET framework app for online hair dressing services.
+-An ASP.NET framework app for online hair dressing services.
 
 ## 📊 Contribution Graph
 
