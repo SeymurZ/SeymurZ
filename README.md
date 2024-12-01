@@ -36,10 +36,12 @@ I'm a passionate backend developer with expertise in multiple programming langua
 
 ## 🌱 What I'm Currently Learning
 
-- [MicroServices]
-- [Multi-tenant services]
+- [Microservices]
+- [Multi-Tenant services]
 - [ODATA]
-- [Azure]
+- [Azure Portal]
+- [LiquidBase]
+- [LeetCode Algorithms]
 ## ✨ Projects
 
 ### "Hotelier" API
