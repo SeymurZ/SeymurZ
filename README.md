@@ -21,7 +21,7 @@ I'm a passionate backend developer with expertise in multiple programming langua
 
 ## 📈 GitHub Stats
 
-![Zeynal Nicat's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynalnicat&show_icons=true&theme=radical)
+![SeymurGIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynalnicat&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeynalnicat&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
@@ -31,18 +31,20 @@ I'm a passionate backend developer with expertise in multiple programming langua
 
 ## 🌱 What I'm Currently Learning
 
-- [Flutter]
-- [Jetpack Compose]
-
+- [MicroServices]
+- [Multi-tenant services]
+- [ODATA]
+- [Azure]
+- 
 ## ✨ Projects
 
-### QRCode
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zeynalnicat&repo=QRCode&theme=radical)](https://github.com/zeynalnicat/QRCode)
-- A flutter app for creating and reading QR codes.
+### Hair Salon
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SeymurGIT&repo=Hair-Salon-MVC&theme=radical)](https://github.com/SeymurGIT/Hair-Salon-MVC)
+- An ASP.NET framework app for online hair dressing services.
 
 ## 📊 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zeynalnicat&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SeymurGIT&theme=react-dark)
 
 
 
