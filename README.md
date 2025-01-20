@@ -39,7 +39,7 @@ I'm a passionate backend developer with expertise in multiple programming langua
 - [Multi-Tenant services]
 - [ODATA]
 - [Azure Portal]
-- [LiquidBase]
+- [LiquiBase]
 - [LeetCode Algorithms]
 ## ✨ Projects
 
