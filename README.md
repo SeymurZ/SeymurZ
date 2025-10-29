@@ -59,4 +59,4 @@ I'm a passionate backend developer with expertise in multiple programming langua
 
 - Email: [seymur-backend@outlook.com](mailto:seymur-backend@outlook.com)
 - LinkedIn: [Seymur Zeynalli](https://www.linkedin.com/in/seymur-zeynall%C4%B1-593b23266/)
-- Instagram: [@seymur.halley20](https://www.instagram.com/seymur.halley20/)
+- Instagram: [@seymur.halley21](https://www.instagram.com/seymur.halley21/)
