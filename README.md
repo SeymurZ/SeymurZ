@@ -1,6 +1,6 @@
 # Hi there, I'm Seymur Zeynalli 👋
 
-![79731568097599 5b50bca477735](https://github.com/SeymurGIT/Hair-Salon-MVC/blob/master/wwwroot/User/images/github-3.jpg)
+![79731568097599 5b50bca477735](https://github.com/SeymurZ/Hair-Salon-MVC/blob/master/wwwroot/User/images/github-3.jpg)
 
 
 I'm a passionate backend developer with expertise in multiple programming languages and frameworks. 
@@ -24,13 +24,13 @@ I'm a passionate backend developer with expertise in multiple programming langua
 
 ## 📈 GitHub Stats
 
-![SeymurGIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeymurGIT&show_icons=true&theme=radical&hide=c,html)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeymurGIT&layout=compact&theme=radical&hide=c,html)
+![SeymurZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeymurZ&show_icons=true&theme=radical&hide=c,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeymurZ&layout=compact&theme=radical&hide=c,html)
 
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=SeymurGIT&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=SeymurZ&theme=onedark)
 
 
 ## 🌱 What I'm Currently Learning
@@ -44,15 +44,15 @@ I'm a passionate backend developer with expertise in multiple programming langua
 ## ✨ Projects
 
 ### "Hotelier" API
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SeymurGIT&repo=Hotelier-API-MVC&theme=radical)](https://github.com/SeymurGIT/Hotelier-API-MVC)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SeymurZ&repo=Hotelier-API-MVC&theme=radical)](https://github.com/SeymurZ/Hotelier-API-MVC)
 
 ## 📊 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SeymurGIT&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SeymurZ&theme=react-dark)
 
 ## 🗂️ Highlighted Repositories
 
-[![Hair Salon](https://github-readme-stats.vercel.app/api/pin/?username=SeymurGIT&repo=Hair-Salon-MVC&theme=radical)](https://github.com/SeymurGIT/Hair-Salon-MVC)
+[![Hair Salon](https://github-readme-stats.vercel.app/api/pin/?username=SeymurZ&repo=Hair-Salon-MVC&theme=radical)](https://github.com/SeymurZ/Hair-Salon-MVC)
 
 
 ## 📫 How to reach me
